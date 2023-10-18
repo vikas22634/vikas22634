@@ -47,7 +47,6 @@
 
 - 🏢 I am a final year student
 - 🏫 2024 B.Tech. graduate from  Manav Rachna University
-- 💻 Intern at Bharat Intern, India
-- 🙋‍ More about me: Visit my [website](https://spontaneous-mousse-5534f0.netlify.app/)
+- 🙋‍ More about me: Visit my [website](https://ephemeral-cat-d6f7b0.netlify.app/)
 - 🖇 Follow me on [LinkedIn](https://www.linkedin.com/in/thevikasagrawal/)
 - 👯 Pronouns: He/His
